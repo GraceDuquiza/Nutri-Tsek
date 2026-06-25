@@ -283,7 +283,7 @@ This demonstration showcases the complete product scanning workflow.
 * Nutrient Traffic-Light Grading
 * Product recommendations
 
-▶ **Video:** [Product Scanning Demo](demo/ScannerFeature.mp4)
+▶ **[Watch on YouTube](https://youtube.com/shorts/MbLP_lRaKGk)**
 
 ---
 
@@ -301,7 +301,7 @@ This demonstration showcases the product comparison feature.
 * Nutrient Traffic-Light comparison
 * Identification of the healthier product
 
-▶ **Video:** [Product Comparison Demo](demo/ComparisonFeature.mp4)
+▶ **[Watch on YouTube](https://youtube.com/shorts/5SmsmY5XAtg)**
 
 ---
 

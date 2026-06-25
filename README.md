@@ -338,11 +338,10 @@ The general user evaluation focuses on:
 ### How to Participate
 
 1. Open Nutri-Tsek using the Android application or the web version.
-2. Create an account or sign in.
-3. Navigate to the **Evaluation** page.
-4. Select the appropriate evaluator type.
-5. Complete the evaluation questionnaire.
-6. Submit your responses.
+2. Navigate to the **Evaluation** page.
+3. Select the appropriate evaluator type.
+4. Complete the evaluation questionnaire.
+5. Submit your responses.
 
 Participation is completely voluntary and greatly appreciated. Every evaluation helps improve Nutri-Tsek and contributes to the successful completion of this Bachelor of Science in Computer Science thesis.
 

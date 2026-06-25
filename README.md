@@ -119,15 +119,15 @@ Users can compare two food products side by side, including:
 - Nutri-Score
 - NOVA Classification
 - Nøglehullet Assessment
-- Nutrient Traffic-Light Grading
+- Product Information
 
-The application highlights the healthier option to support informed purchasing
+The application highlights the nutritional option to support informed purchasing
 decisions.
 
 ### Personalized Recommendations
 
 Based on product evaluation and user preferences, Nutri-Tsek recommends
-healthier alternative products when available.
+suggestive alternative products when available.
 
 ## Features
 

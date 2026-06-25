@@ -41,9 +41,7 @@ Download the latest Android APK from the **GitHub Releases** page.
 
 📦 **[Download Nutri-Tsek for Android](https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest/download/NutriTsek.V1.0.0.apk)**
 
-The download will begin automatically when you click the link.
-
-After downloading, open the APK on your Android device and follow the installation instructions.
+Download and install the latest Android version with native barcode scanning support.
 
 ---
 

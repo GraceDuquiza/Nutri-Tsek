@@ -39,7 +39,9 @@ Try Nutri-Tsek directly in your browser without installing anything.
 
 Download the latest Android APK from the **GitHub Releases** page.
 
-📦 **[Download Nutri-Tsek for Android](https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest)**
+📦 **[Download Nutri-Tsek for Android](https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest/download/NutriTsek.V1.0.0.apk)**
+
+The download will begin automatically when you click the link.
 
 After downloading, open the APK on your Android device and follow the installation instructions.
 
@@ -429,13 +431,19 @@ https://nutritsek.vercel.app
 
 ## 📱 Download Android APK
 
-Download the latest Android APK from the **GitHub Releases** page.
+Download the latest Android APK by clicking the link below.
 
-📦 **[Download Nutri-Tsek for Android](https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest)**
+📦 **[Download Nutri-Tsek for Android](https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest/download/NutriTsek.V1.0.0.apk)**
 
-After downloading, open the APK on your Android device and follow the installation instructions.
+### Installation
 
-For the best experience, install the Android APK on an Android device to access all mobile features, including barcode scanning and native camera support.
+1. Download the APK using the link above.
+2. Open the downloaded APK on your Android device.
+3. If prompted, allow installation from unknown sources.
+4. Tap **Install**.
+5. Launch Nutri-Tsek and create an account or sign in.
+
+> **Note:** Nutri-Tsek is currently available for **Android devices only**. iOS installation is not supported.
 
 ---
 

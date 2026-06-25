@@ -5,8 +5,10 @@ Using the Nutri-Score Algorithm
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Frontend](https://img.shields.io/badge/Frontend-Next.js-black)
+![Deployment](https://img.shields.io/badge/Deployment-Vercel-black)
 ![Backend](https://img.shields.io/badge/Backend-.NET%2010-purple)
 ![Database](https://img.shields.io/badge/Database-Supabase-blue)
+![Repository](https://img.shields.io/badge/Repository-GitHub-181717)
 ![Status](https://img.shields.io/badge/Status-Thesis%20Edition-success)
 
 <!-- markdownlint-disable MD033 -->
@@ -351,6 +353,14 @@ Thank you for supporting the Nutri-Tsek project!
 - Tailwind CSS
 - React Query
 - Capacitor Android
+
+### Frontend Deployment
+
+- Vercel
+
+### Repository Hosting
+
+- GitHub
 
 ### Backend
 

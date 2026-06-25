@@ -1,4 +1,5 @@
-# Nutri-Tsek v1.0.0 Thesis Edition
+# Nutri-Tsek: Mobile-Based Application for Evaluating Nutritional Values of Food Products Using the Nutri-Score Algorithm
+
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Frontend](https://img.shields.io/badge/Frontend-Next.js-black)

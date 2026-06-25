@@ -76,7 +76,7 @@ Classifies foods according to their degree of processing.
 
 ### 🔵 Nøglehullet Assessment
 
-Determines whether a product meets the Nordic Keyhole nutritional criteria, helping users identify healthier food choices.
+Determines whether a product meets the Nordic nøglehullet nutritional criteria, helping users identify healthier food choices.
 
 ---
 
@@ -303,6 +303,7 @@ This demonstration showcases the product comparison feature.
 
 ▶ **Video:** [Product Comparison Demo](demo/ComparisonFeature.mp4)
 
+---
 
 ## 📝 Help Evaluate Nutri-Tsek
 
@@ -399,63 +400,6 @@ Participation is completely voluntary and greatly appreciated. Every evaluation 
        PostgreSQL Database (Supabase)
 ```
 
----
-
-
-## 📝 Help Evaluate Nutri-Tsek
-
-As part of my Bachelor of Science in Computer Science thesis, I am collecting feedback to evaluate the usability, functionality, and overall quality of Nutri-Tsek.
-
-If you have a few minutes, your evaluation would be greatly appreciated and will contribute to the research and improvement of the application.
-
-### Evaluation Types
-
-**👨‍💻 Technical Evaluator**
-
-For software developers, IT professionals, instructors, and students with technical knowledge.
-
-The technical evaluation focuses on:
-
-* Functional Suitability
-* Performance Efficiency
-* Reliability
-* Security
-* Maintainability
-* Portability
-
----
-
-**👤 General User**
-
-For anyone who uses the application.
-
-The general user evaluation focuses on:
-
-* Ease of use
-* User interface
-* Overall satisfaction
-* User experience
-
----
-
-### How to Participate
-
-1. Open Nutri-Tsek.
-2. Create an account or sign in.
-3. Navigate to **Dashboard → Evaluation**.
-4. Select the appropriate evaluator type.
-5. Complete the evaluation form.
-6. Submit your responses.
-
-Your participation is completely voluntary and greatly appreciated. Every evaluation helps improve the application and supports the completion of this academic research.
-
-Thank you for supporting the Nutri-Tsek project!
-
-## Evaluation
-
-<p align="center">
-<img src="screenshots/Evaluation.png" width="280">
-</p>
 ---
 
 

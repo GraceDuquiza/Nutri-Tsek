@@ -100,9 +100,9 @@ helping users identify healthier food choices.
 
 Evaluates important nutrients using color indicators:
 
-- Low
-- Medium
-- High
+- Green - Low
+- Amber - Medium
+- Red - High
 
 The grading is applied to:
 
@@ -286,10 +286,10 @@ This demonstration showcases the product comparison feature.
 - Compare two products
 - Side-by-side nutritional comparison
 - Nutri-Score comparison
-- NOVA comparison
+- NOVA Group comparison
 - Nøglehullet assessment
-- Nutrient Traffic-Light comparison
-- Identification of the healthier product
+- Product Information
+- Identification of the nutritional product
 
 [Watch on YouTube](https://youtube.com/shorts/5SmsmY5XAtg)
 
@@ -412,11 +412,16 @@ Thank you for supporting the Nutri-Tsek project!
 
 ## Data Sources
 
-Nutri-Tsek uses publicly available food datasets for educational and research
-purposes.
+Nutri-Tsek uses publicly available food datasets for educational and research purposes.
 
-- Open Food Facts
-- DTU Food FRIDA Food Database
+- **Open Food Facts (ODbL)** — used for food product information such as barcode, product name, brand, ingredients, categories, and nutritional values.
+- **FRIDA Food Data by DTU Food** — used as a food composition reference dataset for food names and nutritional values, especially for calorie tracking and manual food search.
+
+## Data Attribution
+
+Product information is partly derived from Open Food Facts, whose database is available under the Open Database License (ODbL).
+
+Food composition reference data is partly derived from FRIDA Food Data, the Danish Food Composition Database published by the National Food Institute, Technical University of Denmark (DTU Food).
 
 ## Project Information
 

@@ -146,6 +146,7 @@ suggestive alternative products when available.
 ### Personalized User Features
 
 - User registration and login
+- Forgot password recovery
 - Personalized nutrition goals
 - Allergy management
 - Purchase history
@@ -251,6 +252,9 @@ After logging in, users gain access to:
 - Nutrition goals
 - Personalized recommendations
 - Account management
+
+The login page also includes a forgot password option so users can recover
+access to their account when needed.
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">

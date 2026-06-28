@@ -53,7 +53,7 @@ receive personalized nutrition recommendations.
 The web version of Nutri-Tsek is available for demonstration and testing
 directly in your browser.
 
-[Open the live web application](https://nutritsek.vercel.app)
+[Open the live web application](https://nutritsek.duquizaolesen.com)
 
 Try Nutri-Tsek directly in your browser without installing anything.
 
@@ -458,4 +458,4 @@ portfolio purposes only.
 No permission is granted to copy, modify, redistribute, or use this source code
 without prior written permission from the copyright holder.
 
-[apk-download]: https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest/download/NutriTsek.V1.0.0.apk
+[apk-download]: https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest/download/NutriTsek.V1.0.1.apk

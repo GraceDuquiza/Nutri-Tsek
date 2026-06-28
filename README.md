@@ -57,9 +57,9 @@ directly in your browser.
 
 Try Nutri-Tsek directly in your browser without installing anything.
 
-> **Note:** Some mobile features, such as barcode scanning, may have limited
-> functionality depending on the browser and device. For the best experience,
-> install the Android APK.
+> **Note:** For barcode scanning on the web version, Mozilla Firefox is
+> recommended, as scanning may not work reliably in Google Chrome. Android users
+> may also use the APK version for a more stable scanning experience.
 
 ## Download Android APK
 

@@ -79,30 +79,40 @@ overview.
 ### Nutri-Score
 
 Evaluates the overall nutritional quality of food products using the Nutri-Score
-algorithm, assigning grades from **A (healthier choice)** to
-**E (less healthy choice)**.
+algorithm. The result is shown using grades from **A** to **E**:
+
+- **Grade A** - Healthier nutritional quality
+- **Grade B** - Good nutritional quality
+- **Grade C** - Moderate nutritional quality
+- **Grade D** - Less favorable nutritional quality
+- **Grade E** - Least favorable nutritional quality
 
 ### NOVA Classification
 
 Classifies foods according to their degree of processing.
 
-- Group 1 - Unprocessed or minimally processed foods
-- Group 2 - Processed culinary ingredients
-- Group 3 - Processed foods
-- Group 4 - Ultra-processed foods
+- **Group 1** - Unprocessed or minimally processed foods
+- **Group 2** - Processed culinary ingredients
+- **Group 3** - Processed foods
+- **Group 4** - Ultra-processed foods
 
 ### Nøglehullet Assessment
 
-Determines whether a product meets the Nordic nøglehullet nutritional criteria,
-helping users identify healthier food choices.
+Determines whether a product meets the Nordic Nøglehullet nutritional criteria,
+helping users identify healthier food choices. The result is shown as:
+
+- **Eligible** - The product meets the Nøglehullet criteria
+- **Not Eligible** - The product does not meet the Nøglehullet criteria
+- **Not Available** - The assessment cannot be determined because required product
+  information is missing
 
 ### Nutrient Traffic-Light Grading
 
 Evaluates important nutrients using color indicators:
 
-- Green - Low
-- Amber - Medium
-- Red - High
+- 🟢 **Green** - Low level
+- 🟠 **Amber** - Medium level
+- 🔴 **Red** - High level
 
 The grading is applied to:
 

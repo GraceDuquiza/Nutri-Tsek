@@ -472,4 +472,4 @@ portfolio purposes only.
 No permission is granted to copy, modify, redistribute, or use this source code
 without prior written permission from the copyright holder.
 
-[apk-download]: https://github.com/GraceDuquiza/Nutri-Tsek/releases/latest/download/NutriTsek.V1.0.1.apk
+[apk-download]: https://github.com/GraceDuquiza/Nutri-Tsek/releases/download/v1.0.4/NutriTsek.v1.0.4.apk
